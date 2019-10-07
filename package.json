@@ -1,0 +1,14 @@
+{
+    "name": "@daatyson/testerd",
+    "version": "0.0.1",
+    "description": "Removes all spaces from a string",
+    "license": "MIT",
+    "repository": "daatysonz/testerd",
+    "main": "index.js",
+    "keywords": [
+      "tester",
+      "npm",
+      "package",
+      "daatyson"
+    ]
+}
