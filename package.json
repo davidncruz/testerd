@@ -1,9 +1,9 @@
 {
-    "name": "@daatyson/testerd",
-    "version": "0.2.1",
+    "name": "testerd",
+    "version": "1.0.0",
     "description": "Removes all spaces from a string",
     "license": "MIT",
-    "repository": "daatysonz/testerd",
+    "repository": "testerd",
     "main": "index.js",
     "keywords": [
         "tester",

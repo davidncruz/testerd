@@ -1,20 +1,20 @@
-@daatyson/testerd
+testerd
 ======
 
-[![GitHub issues](https://img.shields.io/github/issues-raw/daatysonz/testerd)](https://github.com/daatysonz/testerd/issues)
-[![npm (scoped)](https://img.shields.io/npm/v/@daatyson/testerd?url=https://github.com/daatysonz/testerd)](https://www.npmjs.com/package/@daatyson/testerd)
-![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/@daatyson/testerd/0.1.0)
+[![GitHub issues](https://img.shields.io/github/issues-raw/davidncruz/testerd)](https://github.com/davidncruz/testerd/issues)
+[![npm](https://img.shields.io/npm/v/testerd)](https://www.npmjs.com/package/testerd)
+![npm bundle size (scoped version)](https://img.shields.io/bundlephobia/min/testerd/1.0.0)
 
 Install
 ------
 ```
-$ npm install @daatyson/testerd
+$ npm install testerd
 ```
 
 Usage
 ------
 ```javascript
-const testerd = require("@daatyson/testerd");
+const testerd = require("testerd");
 
 testerd("Testing them spaces.");
 //=> "Testingthemspaces."
